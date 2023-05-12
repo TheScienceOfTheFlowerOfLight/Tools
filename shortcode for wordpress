@@ -1,0 +1,7 @@
+
+-----------  woocommerce -------------------------(featured products for woocommerce)
+[featured_products columns="5" limit="10"]
+
+--------------- yoast seo -------------------------------(Breadcrumbs)   
+[wpseo_breadcrumb]
+
