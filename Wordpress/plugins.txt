@@ -44,6 +44,7 @@
 - Ultimate Member – reCAPTCHA  
 - LoginPress  
 - WPS Hide Login
+- Heateor Social Login WordPress
 - Redirection (By John Godley) (مدونات كبيرة - متاجر كبيرة - نقل الموقع من الاستضافة لاخرة)
 - Broken Link Checker	(مدونات كبيرة - متاجر كبيرة )
 
