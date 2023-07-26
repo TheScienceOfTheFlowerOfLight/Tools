@@ -41,6 +41,9 @@
 - Imagify  (+30)
 - LazyLoad by wp rocket 
 - Ultimate Member (register-profile-account)
+- Ultimate Member – reCAPTCHA  
+- LoginPress  
+- WPS Hide Login
 - Redirection (By John Godley) (مدونات كبيرة - متاجر كبيرة - نقل الموقع من الاستضافة لاخرة)
 - Broken Link Checker	(مدونات كبيرة - متاجر كبيرة )
 
@@ -55,7 +58,6 @@
 @#########################################################
 			@***أمن***@
 - Wordfence Security
-- WPS Hide Login
 - Blackhole for Bad Bots
 
 @#########################################################
