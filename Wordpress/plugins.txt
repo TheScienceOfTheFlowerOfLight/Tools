@@ -38,8 +38,6 @@
 - WP Dark Mode
 - Sassy Social Share (page-post-product)
 - wpDiscuz	(page-post)
-- Imagify  (+30)
-- LazyLoad by wp rocket 
 - Ultimate Member (register-profile-account)
 - Ultimate Member – reCAPTCHA  
 - LoginPress  
@@ -52,6 +50,8 @@
 
 @#########################################################
 			@***تسريع + تحسين***@
+- Imagify  (+30)
+- LazyLoad by wp rocket 
 - WP Fastest Cache
 - UpdraftPlus
 - WP-Optimize
