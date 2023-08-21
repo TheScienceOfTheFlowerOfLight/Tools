@@ -38,17 +38,20 @@
 
 @######################################################
 			@***خدمات***@
+مظهر
 - WP Dark Mode
+- Polylang (post , info)
 - Sassy Social Share (page-post-product)
 - wpDiscuz	(page-post)
+حساب
 - Ultimate Member (register-profile-account)
 - Ultimate Member – reCAPTCHA  
 - LoginPress  
 - WPS Hide Login
 - Heateor Social Login WordPress
+اخرى
 - Redirection (By John Godley) (مدونات كبيرة - متاجر كبيرة - نقل الموقع من الاستضافة لاخرة)
 - Broken Link Checker	(مدونات كبيرة - متاجر كبيرة )
-- Polylang
 - Translate WordPress with GTranslate
 
 @#########################################################
