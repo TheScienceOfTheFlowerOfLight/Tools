@@ -3,6 +3,9 @@
 - server ip 
 - astra (theme)
 - starter template
+	> BrandStore  (store)
+	> Outdoor Adventure (posts , info , land page )
+	> Love Nuture (img , sound , video)
 - Elementor
 - Elementor header & footer
 - contact form 7
