@@ -42,6 +42,7 @@
 مظهر
 - WP Dark Mode
 - Polylang (post , info)
+- WEGLOT  (store 1translate free )
 حساب
 - Ultimate Member (register-profile-account)
 - Ultimate Member – reCAPTCHA  
