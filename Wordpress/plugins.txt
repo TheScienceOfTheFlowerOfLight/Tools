@@ -40,6 +40,7 @@
 @######################################################
 			@***خدمات***@
 مظهر
+- White Label CMS  (CMS)
 - WP Dark Mode
 - Polylang (post , info)
 - WEGLOT  (store 1translate free )
