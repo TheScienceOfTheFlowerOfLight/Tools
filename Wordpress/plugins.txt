@@ -61,7 +61,7 @@
 
 @#########################################################
 			@***تسريع + تحسين***@
-- Imagify  (+30)
+- Converter for Media  (jpg , png) (+30)
 - LazyLoad by wp rocket 
 - WP Fastest Cache
 - UpdraftPlus
