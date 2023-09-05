@@ -1,0 +1,12 @@
+VScode
+		VSCode Great Icons
+		ChatGPT - EasyCode
+		Prettier - Code formatter
+		Better Comments
+		
+html + css
+	HTML CSS Support
+	Live Server
+	
+Flow chart
+	Draw.io Integration
