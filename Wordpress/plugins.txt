@@ -61,6 +61,7 @@
 
 @#########################################################
 			@***تسريع + تحسين***@
+- Resize Image After Upload (from shortpixels)
 - Converter for Media  (jpg , png) (+30)
 - LazyLoad by wp rocket 
 - WP Fastest Cache
