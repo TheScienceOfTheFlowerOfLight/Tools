@@ -50,6 +50,8 @@
 - LoginPress  
 - WPS Hide Login
 - Heateor Social Login WordPress
+اشتراك
+- MailPoet (ااشتراك فى خدمة اشعارات البريد الالكترونى - ارسال رسالة لبريد المشتركين - ارسال رسالة باخر منشور نشر - رسالة تذكير لشراء المنتج )
 مشاركة
 - Sassy Social Share (page-post-product)
 - wpDiscuz	(page-post)
