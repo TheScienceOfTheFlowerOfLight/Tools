@@ -59,7 +59,11 @@
 - Redirection (By John Godley) (مدونات كبيرة - متاجر كبيرة - نقل الموقع من الاستضافة لاخرة)
 - Broken Link Checker	(مدونات كبيرة - متاجر كبيرة )
 تحليلات
-- MonsterInsights
+- Google Analytics     https://analytics.google.com
+	- Google Tag Manager        https://tagmanager.google.com
+	- HFCM
+	or
+	- MonsterInsights
 أخرى
 - Translate WordPress with GTranslate
 
