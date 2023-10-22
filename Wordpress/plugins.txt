@@ -64,6 +64,9 @@
 	- HFCM
 	or
 	- MonsterInsights
+Woocommerce
+- filter
+	- Product Filter for WooCommerce 	 $ 	https://codecanyon.net/item/woocommerce-product-filter/8514038
 أخرى
 - Translate WordPress with GTranslate
 
